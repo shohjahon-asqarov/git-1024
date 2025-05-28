@@ -1,0 +1,11 @@
+
+
+/* git add .   - gitga barcha filelarni oladi */
+/* git commit - nima ish qilingani yoziladi */
+/* git push - ozgarishlarni serverga yuboradi */
+/* git branch - local branchlarni va hozir qaysi branchda turganimizni  ko'rsatadi */
+/* git branch <new branch name> - yangi branch yaratadi*/
+/* git checkout <branch-name> - berilgan branchga o'tadi */
+/* git merge <branch-name> - berilgan branchdagi codlar birlashtiradi */
+/* git pull <branch-name> - berilgan branchdagi codlardan nusha olib keladi */
+/* git checkout -b <branch-name> - yangi branch yaratadi va shu brnachga o'tadi */
